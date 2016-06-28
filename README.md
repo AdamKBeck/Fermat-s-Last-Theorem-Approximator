@@ -1,6 +1,6 @@
 # Fermat-s-Last-Theorem-Approximator
 
-This program intelligently estimates a solution for Fermat’s last theorem for n = 3.
+This program estimates a solution for Fermat’s last theorem for n = 3 via the squeeze theorem.
 
 https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem
 
